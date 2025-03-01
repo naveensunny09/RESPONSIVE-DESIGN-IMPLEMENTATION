@@ -18,3 +18,7 @@ Asian Paints follows a design-centric approach that focuses on:
 ✅ Durability & Protection – Advanced coatings for weather resistance and long-lasting appeal.
 
 OUTPUT:
+
+<img width="1382" alt="Image" src="https://github.com/user-attachments/assets/23cab467-48f0-41c6-bc0f-0153da04b232" />
+
+![Image](https://github.com/user-attachments/assets/ab5f4368-16ab-4d38-a5e2-74990fb86dfd)
